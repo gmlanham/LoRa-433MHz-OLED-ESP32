@@ -1,6 +1,6 @@
 /*The purpose of this sketch is to receive LoRa radio data, weather data, from the LoRa sender 
- * down at the lake. The LoRa packet is parsed for sensor, weasther, data, then served in
- * a webpage, via Wi-Fi.
+ * about 1/4 mile away. The LoRa packet is parsed for weather data, then served in
+ * a webpage, via local Wi-Fi.
  * 
  */
 #include <SPI.h>
